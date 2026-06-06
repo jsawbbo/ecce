@@ -1,5 +1,6 @@
 # ecce
 
 Ecce ex oculis animalis.
+"Behold through the eyes of an animal."
 
-Planning stage...
+**Status**: Planning stage...
