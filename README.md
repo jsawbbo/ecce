@@ -1,2 +1,5 @@
 # ecce
-Ecce autem video.
+
+Ecce ex oculis animalis.
+
+Planning stage...
